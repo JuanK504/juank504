@@ -104,8 +104,8 @@ Plataforma de captura y visualización electoral:
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/tu-usuario
-- Email: (puedes agregarlo si quieres)
+- GitHub: https://github.com/juank504
+- Email: jucasarihn@gmail.com
 
 ---
 
