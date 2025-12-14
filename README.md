@@ -57,7 +57,7 @@ Plataforma administrativa para centros educativos:
 
 ---
 
-### 🏛️ COPRUMH – Plataforma Institucional + App Móvil
+### 🏛️ COPRUMH – App Móvil
 Ecosistema completo para afiliados:
 - App móvil en Flutter
 - Backend en Laravel
