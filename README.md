@@ -1,7 +1,7 @@
 # 👋 Hola, soy Juan Carlos Sabillón Rivera
 
 Desarrollador Full Stack con enfoque en **sistemas institucionales, administrativos y móviles**, orientados a **educación, organizaciones profesionales y procesos críticos**.  
-Trabajo principalmente en **Laravel + Flutter**, construyendo plataformas seguras, escalables y pensadas para usuarios reales.
+Trabajo principalmente en **Laravel + Flutter**, construyendo plataformas seguras, escalables y pensadas para usuarios final.
 
 ---
 
