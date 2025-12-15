@@ -50,7 +50,7 @@ Construyo **sistemas institucionales reales**: plataformas académicas, paneles 
 
 ---
 
-### COPRUMH – Plataforma Institucional + App Móvil
+### COPRUMH – App Móvil
 **Backend Laravel + App Flutter**
 - Gestión de afiliados
 - Estados de cuenta
